@@ -21,5 +21,8 @@ Image source: Pixabay
 ### Administrative areas per state, ADHR boundary, Indigenous peoples of the Arctic counties subdivision according to language families
 <iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=44dd035b-7cfc-437f-a3aa-f5811cd7ba27" allow="geolocation" style="border: none; width: 956px; height: 500px;"></iframe>
 
+### Protected Areas, ArcticDEM (Digital Elevation Model)
+<iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=ff2f0aad-cd69-4f17-94f2-a801f96c97bf" allow="geolocation" style="border: none; width: 956px; height: 500px;"></iframe>
+
 ### Arctic Region Bioclimate Subzones
 <iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=4a6fb36d-b9ae-4f50-a16e-21009090ffee" allow="geolocation" style="border: none; width: 956px; height: 500px;"></iframe>
