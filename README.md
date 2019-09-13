@@ -16,7 +16,7 @@ combine with other data.
 Image source: Pixabay
 
 ### Polar depths, Areas of Heightened Ecological and Cultural Significance, Contemporary marine fish data sources
-<iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=142d38bd-00e0-424e-80f2-93f7f25a1fde" allow="geolocation" style="border: none; width: 100%; height: 100%;"></iframe>
+<iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=142d38bd-00e0-424e-80f2-93f7f25a1fde" allow="geolocation" style="border: none; width: 800px; height: 500px;"></iframe>
 
 ### Administrative areas per state, ADHR boundary, Indigenous peoples of the Arctic counties subdivision according to language families
 <iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=44dd035b-7cfc-437f-a3aa-f5811cd7ba27" allow="geolocation" style="border: none; width: 800px; height: 500px;"></iframe>
