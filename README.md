@@ -1,6 +1,6 @@
 ## Arctic SDI embedded map examples
 
-This page features some examples of Arctic SDI embedded maps, made in a [Geoportal](https://geoportal.arctic-sdi.org/) powered by Oskari.
+This page features some examples of Arctic SDI embedded maps, made in a [Geoportal](https://geoportal.arctic-sdi.org/) powered by [Oskari](https://oskari.org/).
 
 [The Arctic SDI](https://arctic-sdi.org/) – is a collaborative partner-based effort by the National Mapping Agencies of the eight
 Arctic Countries – facilitating the development of an Arctic Spatial Data Infrastructure and providing
