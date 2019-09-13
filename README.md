@@ -2,7 +2,7 @@
 
 This page features some examples of Arctic SDI embedded maps, made in a [Geoportal](https://geoportal.arctic-sdi.org/) powered by Oskari.
 
-[The Arctic SDI]((https://arctic-sdi.org/) – is a collaborative partner-based effort by the National Mapping Agencies of the eight
+[The Arctic SDI](https://arctic-sdi.org/) – is a collaborative partner-based effort by the National Mapping Agencies of the eight
 Arctic Countries – facilitating the development of an Arctic Spatial Data Infrastructure and providing
 tools for data distributors to ensure that geospatial data is easier for users to access, validate and
 combine with other data.
