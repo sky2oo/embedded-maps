@@ -1,6 +1,6 @@
 ## Arctic SDI embedded map examples
 
-<img src="ASDIbanner.png" alt="banner" width="1200"/>
+<img src="ASDIbanner.PNG" alt="banner" width="1200"/>
 
 This page features some examples of Arctic SDI embedded maps, made in a [Geoportal](https://geoportal.arctic-sdi.org/) powered by [Oskari](https://oskari.org/).
 
