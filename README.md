@@ -1,4 +1,5 @@
-# Embedded maps
+# embedded-maps
+
 This page features some examples of Oskari embedded maps
 
 ## Sea surface temperature changes on the Arctic during 2002-2013 (CAFF)
