@@ -10,7 +10,7 @@ combine with other data.
 ### Sea surface temperature changes on the Arctic during 2002-2013 (CAFF)
 <iframe src="https://geoportal.arctic-sdi.org/?lang=en&uuid=53f30146-cb9c-4823-87b6-fa47b15e7b2d" allow="geolocation" style="border: none; width: 800px; height: 500px;"></iframe>
 
-<img src="iceberg-404966_960_720.jpg" alt="iceberg" class="inline" width="800"/>
+<img src="iceberg-404966_960_720.jpg" alt="iceberg" width="800"/>
 Image source: Pixabay
 
 ### Administrative areas per state, ADHR boundary, Indigenous peoples of the Arctic counties subdivision according to language families
